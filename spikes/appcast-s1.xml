@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>hïve Spike (PLAN 0.4 spikes only)</title>
+    <item>
+      <title>2</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://raw.githubusercontent.com/uhhexe/hive-releases/main/spikes/hive-spike-2.zip" length="2685600" type="application/octet-stream" sparkle:edSignature="lv0MeWM1ucrhfEbtWDHAIaMNeY02w6/Es2if+RbiyoEo+3w+EgkR76XJmnb98XTUt6iJ4OGAZuaSc/Z+q1EhBQ=="/>
+    </item>
+  </channel>
+</rss>
