@@ -4,11 +4,11 @@
         <title>hïve Shelf</title>
         <item>
             <title>181</title>
-            <pubDate>Sun, 25 Oct 2026 16:51:22 -0400</pubDate>
+            <pubDate>Sun, 25 Oct 2026 17:02:13 -0400</pubDate>
             <sparkle:version>181</sparkle:version>
             <sparkle:shortVersionString>181</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/shelf-181/Shelf-181.zip" length="4910852" type="application/octet-stream" sparkle:edSignature="5mU0ScmmSHG5IL0FJD4Arv7Ec8PIOlMSHCjmY2dZseNGQFVq38nGTVe4BIpAI6d9S6hiM/L+KJJ0mKtdqaymDw=="/>
+            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/shelf-181/Shelf-181.zip" length="4910501" type="application/octet-stream" sparkle:edSignature="WgFNbixkbnmQIthmcXLWYSvrYVbmLMXmqZ/LFXoCoeOeMkVUCQjYoB9ANFOfwg8qojYj2NX5Z3785fPbQlsFAw=="/>
         </item>
     </channel>
 </rss>
