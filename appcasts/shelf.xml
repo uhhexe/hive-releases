@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>hïve Shelf</title>
+        <item>
+            <title>181</title>
+            <pubDate>Sun, 25 Oct 2026 16:51:22 -0400</pubDate>
+            <sparkle:version>181</sparkle:version>
+            <sparkle:shortVersionString>181</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/shelf-181/Shelf-181.zip" length="4910852" type="application/octet-stream" sparkle:edSignature="5mU0ScmmSHG5IL0FJD4Arv7Ec8PIOlMSHCjmY2dZseNGQFVq38nGTVe4BIpAI6d9S6hiM/L+KJJ0mKtdqaymDw=="/>
+        </item>
+    </channel>
+</rss>
