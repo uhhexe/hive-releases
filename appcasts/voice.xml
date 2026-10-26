@@ -3,12 +3,12 @@
     <channel>
         <title>hïve Voice</title>
         <item>
-            <title>181</title>
-            <pubDate>Sun, 25 Oct 2026 16:58:33 -0400</pubDate>
-            <sparkle:version>181</sparkle:version>
-            <sparkle:shortVersionString>181</sparkle:shortVersionString>
+            <title>183</title>
+            <pubDate>Mon, 26 Oct 2026 09:11:45 -0400</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>183</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/voice-181/Voice-181.zip" length="10010247" type="application/octet-stream" sparkle:edSignature="7YRcTV7YSCTvMrq65NtS78iHcfgLZctJh/wEyP2vnRyLUdJov9y1j4QE+ss8NDNUUtW9bLhNSuMsY7lH+thvAA=="/>
+            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/voice-183/Voice-183.zip" length="10009978" type="application/octet-stream" sparkle:edSignature="fCrNY7/mGD+X6Dpj+P4aBrLAkUF+Cm+tdtL1mxdqriHQ9PBz2gQyqjm8hwuQx2+ZrjfTXMS/cWWsE2zyoi9FBg=="/>
         </item>
     </channel>
 </rss>
