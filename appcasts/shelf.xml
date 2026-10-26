@@ -3,12 +3,12 @@
     <channel>
         <title>hïve Shelf</title>
         <item>
-            <title>181</title>
-            <pubDate>Sun, 25 Oct 2026 17:02:13 -0400</pubDate>
-            <sparkle:version>181</sparkle:version>
-            <sparkle:shortVersionString>181</sparkle:shortVersionString>
+            <title>183</title>
+            <pubDate>Mon, 26 Oct 2026 13:07:04 -0400</pubDate>
+            <sparkle:version>183</sparkle:version>
+            <sparkle:shortVersionString>183</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/shelf-181/Shelf-181.zip" length="4910501" type="application/octet-stream" sparkle:edSignature="WgFNbixkbnmQIthmcXLWYSvrYVbmLMXmqZ/LFXoCoeOeMkVUCQjYoB9ANFOfwg8qojYj2NX5Z3785fPbQlsFAw=="/>
+            <enclosure url="https://github.com/uhhexe/hive-releases/releases/download/shelf-183/Shelf-183.zip" length="4910459" type="application/octet-stream" sparkle:edSignature="01H9DQtNx1/rUjhzRQddfbHu7vz7VIh0iIi3h30DF0rj/pVF8nq77486KxOqbFrzWMDGOIEikILFCgOCwTgbAQ=="/>
         </item>
     </channel>
 </rss>
